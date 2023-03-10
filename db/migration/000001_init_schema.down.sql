@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS branch;
+DROP TABLE IF EXISTS company;
+DROP TABLE IF EXISTS "user";
+DROP TYPE role_type;
